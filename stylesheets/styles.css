@@ -5,8 +5,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 5vh;
-    padding-bottom: 5vh;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
 }
 
 main {
@@ -117,8 +117,8 @@ button div {
 
 @media screen and (min-width: 601px) {
     body {
-        padding-top: 0vh;
-        padding-bottom: 0vh;
+        margin-top: 0vh;
+        margin-bottom: 0vh;
     }
     
     main {
